@@ -120,9 +120,8 @@ section {
   text-align: center;
   padding: 100px 0;
 	width: 75%;
-	height: 15%;
 	position: absolute;
-	top: 20%;
+	top: 27%;
 	left: 13%;
 	text-transform: uppercase;
 	background-color: #072230;
@@ -218,7 +217,9 @@ section {
 	background-color: #072230;
 	color: #ff7070;
 	text-transform: uppercase;
-	font-size: 1.25em;
+	font-size: 1.35em;
+	text-align: center;
+	text-decoration: underline;
 }
 /*------projects-----*/
 #work-title {
@@ -254,8 +255,8 @@ section {
 }
 
 .flex-item img {
-	height: 190px;
-	max-width: 370px;
+	height: 180px;
+	max-width: 320px;
 	border: 1px solid #ff7070;
 }
 
@@ -264,7 +265,7 @@ section {
 }
 
 .project-info {										/* overlay */
-	height: 190px;
+	height: 180px;
 	width: 100%;
 	visibility: hidden;
 	background-color: rgba(07,22,30,0.9);
@@ -481,8 +482,7 @@ section {
 }
 
 .about-rt-wrapper {
-	padding-top: 10px;
-	padding-bottom: 30px;
+	padding: 15% 0;
 }
 
 .about-lft-wrapper {
