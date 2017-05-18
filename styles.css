@@ -249,6 +249,7 @@ section {
 .flex-item {
 	/*margin: 0 22px 5px;*/
 	height: 100%;
+	margin: 15px 0;
 	align-self: stretch;
 	border: none;
 	position: relative;
